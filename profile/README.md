@@ -37,6 +37,11 @@ If you're looking for assistance, contact our **Connect Center**:
 - **Email:** [wmconnectcenter@waynemetro.org](mailto:wmconnectcenter@waynemetro.org)
 - **Website:** [waynemetro.org](https://www.waynemetro.org)
 
-## Follow us
+<h2 align="center">Follow us</h2>
 
-[Facebook](https://www.facebook.com/waynemetro) · [Instagram](https://www.instagram.com/waynemetro) · [YouTube](https://www.youtube.com/user/WMCAA)
+<p align="center">
+  <a href="https://www.facebook.com/waynemetro"><img src="assets/facebook.svg" alt="Facebook" height="32"></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/waynemetro"><img src="assets/instagram.svg" alt="Instagram" height="32"></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/company/885697"><img src="assets/linkedin.svg" alt="LinkedIn" height="32"></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.youtube.com/user/WMCAA"><img src="assets/youtube.svg" alt="YouTube" height="32"></a>
+</p>
