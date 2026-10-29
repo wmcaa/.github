@@ -1,6 +1,13 @@
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/logo-dark.svg">
+    <img alt="Wayne Metropolitan Community Action Agency, established 1971" src="assets/logo-light.svg" width="420">
+  </picture>
+</p>
+
 # Wayne Metro Community Action Agency
 
-Wayne Metropolitan Community Action Agency (Wayne Metro) is a nonprofit community action agency that serves Wayne County and southeastern Michigan. We help people take on what gets in their way, like a shutoff notice, an eviction, a tax foreclosure, or a budget that doesn't add up, so they can work toward goals they set for themselves.
+Wayne Metropolitan Community Action Agency (Wayne Metro) is a nonprofit community action agency founded in 1971. We serve Wayne County and southeastern Michigan. We help people take on what gets in their way, like a shutoff notice, an eviction, a tax foreclosure, or a budget that doesn't add up, so they can work toward goals they set for themselves.
 
 > Wayne Metro empowers individuals and communities to realize their own goals.
 
